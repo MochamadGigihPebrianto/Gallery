@@ -1,0 +1,18 @@
+.gallery {
+  display: block;
+  text-align: center;
+}
+.main-image img {
+  width: 520px;
+  height: 350px;
+  margin-bottom: 10px;
+}
+.option {
+  display: flex;
+  column-gap: 10px;
+}
+
+.option-image img {
+  width: 123px;
+  height: 82.5px;
+}
